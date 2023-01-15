@@ -1,0 +1,18 @@
+.paper{
+    width: 750px;
+    height: 900px;
+    background: linear-gradient(grey, white);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-style:calc();
+}
+.button{
+    margin: 20px;
+    padding: 20px;
+}
